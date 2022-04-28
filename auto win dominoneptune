@@ -1,0 +1,23 @@
+Checking availability of current mirror: bad
+Testing the available mirrors:
+[*] https://mirror.mwt.me/termux/main: bad
+[*] https://termux.sahilister.in/apt/termux-main: ok
+[*] https://plug-mirror.rcac.purdue.edu/termux/termux-main: bad
+[*] https://termux.mentality.rip/termux-main: bad
+[*] https://grimler.se/termux-packages-24: ok
+[*] https://termux.librehat.com/apt/termux-main: ok
+[*] https://termux.astra.in.ua/apt/termux-main: ok
+[*] https://packages-cf.termux.org/apt/termux-main: bad
+[*] https://dl.kcubeterm.com/termux-main: bad
+Picking mirror: https://termux.astra.in.ua/apt/termux-main
+Get:1 https://termux.astra.in.ua/apt/termux-main stable InRelease [14.0 kB]
+Get:2 https://termux.astra.in.ua/apt/termux-main stable/main aarch64 Packages [409 kB]
+Fetched 423 kB in 5s (86.2 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+All packages are up to date.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+end
